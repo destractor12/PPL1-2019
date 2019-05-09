@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1557410626 source:c:\users\alumno\desktop\nueva carpeta\ppl1\actor.c
+	"actor.h"
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+
+1557409890 c:\users\alumno\desktop\nueva carpeta\ppl1\peliculas.h
+	"actor.h"
+
+1557410626 c:\users\alumno\desktop\nueva carpeta\ppl1\actor.h
+
+1557407242 source:c:\users\alumno\desktop\nueva carpeta\ppl1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"peliculas.h"
+
+1557408481 source:c:\users\alumno\desktop\nueva carpeta\ppl1\peliculas.c
+	<stdio.h>
+	"peliculas.h"
+	<string.h>
+	<ctype.h>
+
